@@ -1,5 +1,7 @@
 # summer-sessions-2019
 
+## Note: Note: Announcements will be made through the repo's issues page, so please subscribe to the repo (by clicking the 'watch' button) to receive notifications.
+
 A series of lectures and hands-on tutorials organized between the 6th of May 2019 and 20th of June 2019 to familiarize new lab entrants with the fundaments of different areas of robotics research that the lab conducts.
 
 An Important aspect of this session will be getting familiar with various robots and sensors present in the lab. This knowledge/skill will be critical as some of the assignments will involve using these systems to collect data and/or execute the algorithms.
