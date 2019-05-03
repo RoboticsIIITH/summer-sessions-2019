@@ -7,13 +7,22 @@ An Important aspect of this session will be getting familiar with various robots
 
 Tentative list of topics to be covered:
 
-**TBD:**
+**Lab Robots & other Hardwares:**
 
-**Motion Planning:**
+**Optimization:**
+
+**Rigid Body Transformations:**
 
 **Geometric methods in Computer Vision:** Rigid body transformations, Projective geometry, Camera modelling, Homographies, Two-view geometry, Triangulation, SfM, Visual odometry.
 
-**Deep learning for Computer Vision:**
+
+**Deep learning for Computer Vision & Tensor Flow:**
+
+**Motion Planning:**
+
+**Reinforcement Learning:**
+
+
 
 
 ## Schedule
