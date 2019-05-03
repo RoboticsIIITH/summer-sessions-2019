@@ -55,3 +55,14 @@ Tentative list of topics to be covered:
 **Reinforcement Learning:**
 
 
+## Contacts:
+* For any doubts and querries regarding this session you can contact any one of the coordinators as mentioned below:
+>Sarthak Sharma <sarthak.alexrider@gmail.com>
+>Mahtab Sandhu <mahtabsandhu@gmail.com> 
+>Karnik Ram <karnikram@gmail.com>
+>Mithun Nallana <mithunbabu1141995@gmail.com>
+>Sriram N N <nnsriram97@gmail.com> 
+>Junaid Ahmad<ansariahmedjunaid@gmail.com> 
+>kaustubh mani <kaustubh3095@gmail.com>
+>S Shashank <shashank.s@research.iiit.ac.in>
+>Gourav Kumar <gkumar.4548@gmail.com>
