@@ -66,7 +66,7 @@ An Important aspect of this session will be getting familiar with various robots
 
 ## Contacts:
 ** For any doubts and querries regarding this session you can contact any one of the coordinators as mentioned below:**
->Sarthak Sharma <sarthak.alexrider@gmail.com>//
+>Sarthak Sharma <sarthak.alexrider@gmail.com><br />
 >Mahtab Sandhu <mahtabsandhu@gmail.com> //
 >Karnik Ram <karnikram@gmail.com>//
 >Mithun Nallana <mithunbabu1141995@gmail.com>//
