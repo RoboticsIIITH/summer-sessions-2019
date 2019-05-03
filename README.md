@@ -5,15 +5,15 @@ A series of lectures and hands-on tutorials organized between the 6th of May 201
 An Important aspect of this session will be getting familiar with various robots and sensors present in the lab. This knowledge/skill will be critical as some of the assignments will involve using these systems to collect data and/or execute the algorithms.
 
 
-Tentative list of topics to be covered:
+##Tentative list of topics to be covered:
 
 **Lab Robots & other Hardwares:**
 
-**Optimization:**
+**Fundamentals of Linear Algebra and Optimization:**
 
 **Rigid Body Transformations:**
 
-**Geometric methods in Computer Vision:** Rigid body transformations, Projective geometry, Camera modelling, Homographies, Two-view geometry, Triangulation, SfM, Visual odometry.
+**Geometric methods in Computer Vision:** Projective geometry, Camera modelling, Homographies, Two-view geometry, Triangulation, SfM, Visual odometry.
 
 
 **Deep learning for Computer Vision & Tensor Flow:**
