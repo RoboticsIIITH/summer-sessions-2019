@@ -26,7 +26,7 @@ An Important aspect of this session will be getting familiar with various robots
 
 
 ## Schedule
-**All the course materials(slides/references) will be updated in this section after every class:**
+>All the course materials(slides/references) will be updated in this section after every class:
 
 |  Date  |       Topic       |        Material       |     Additional Reading     |
 |:------:|:-----------------:|:---------------------:|:--------------------------:|
@@ -35,14 +35,14 @@ An Important aspect of this session will be getting familiar with various robots
 
 
 ## Assignments
-**All the assignments will be uploaded updated here with deadline in this section**
+>All the assignments will be uploaded updated here with deadline in this section
 
 | Assignment No. | Release Date |       Topic      |       files        | Deadline|
 |:--------------:|:------------:|:----------------:|:------------------:|:-------:|
 | 1              | TBD          | TBD              | TBD                | TBD     |
 
 ## Reference
-**This section will point out to research papers, text books and other resources for going deep into different topics**
+>This section will point out to research papers, text books and other resources for going deep into different topics
 
 **Lab Robots & other Hardwares:**
 
@@ -65,13 +65,13 @@ An Important aspect of this session will be getting familiar with various robots
 
 
 ## Contacts:
-* For any doubts and querries regarding this session you can contact any one of the coordinators as mentioned below:
->Sarthak Sharma <sarthak.alexrider@gmail.com>
->Mahtab Sandhu <mahtabsandhu@gmail.com> 
->Karnik Ram <karnikram@gmail.com>
->Mithun Nallana <mithunbabu1141995@gmail.com>
->Sriram N N <nnsriram97@gmail.com> 
->Junaid Ahmad<ansariahmedjunaid@gmail.com> 
->kaustubh mani <kaustubh3095@gmail.com>
->S Shashank <shashank.s@research.iiit.ac.in>
+** For any doubts and querries regarding this session you can contact any one of the coordinators as mentioned below:**
+>Sarthak Sharma <sarthak.alexrider@gmail.com>//
+>Mahtab Sandhu <mahtabsandhu@gmail.com> //
+>Karnik Ram <karnikram@gmail.com>//
+>Mithun Nallana <mithunbabu1141995@gmail.com>//
+>Junaid Ahmad<ansariahmedjunaid@gmail.com>// 
+>kaustubh mani <kaustubh3095@gmail.com>//
+>S Shashank <shashank.s@research.iiit.ac.in>//
+>Sriram N N <nnsriram97@gmail.com> //
 >Gourav Kumar <gkumar.4548@gmail.com>
