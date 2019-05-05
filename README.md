@@ -11,7 +11,7 @@ An Important aspect of this session will be getting familiar with various robots
 
 **Lab Robots & other Hardwares:**
 
-**Fundamentals of Linear Algebra and Optimization:**
+**Fundamentals of Linear Algebra, Calculus and Optimization:** Vectors, Matrices, Vector and Matrix operations, Important matrices, Matrix decompositions, Gradient, Hessian, Linear and non-linear least squares, Unconstrained optimization methods, Lagrange multipliers.
 
 **Rigid Body Transformations:**
 
@@ -20,7 +20,7 @@ An Important aspect of this session will be getting familiar with various robots
 
 **Deep learning for Computer Vision & Tensor Flow:**
 
-**Motion Planning:**
+**Motion Planning:** Robot modelling, Motion Planning overview, Sampling based planning, Variational methods for planning.
 
 **Reinforcement Learning:**
 
@@ -32,7 +32,8 @@ An Important aspect of this session will be getting familiar with various robots
 
 |  Date  |       Topic       |        Material       |     Additional Reading     |
 |:------:|:-----------------:|:---------------------:|:--------------------------:|
-|6-5-19  | TBD               | TBD                   | TBD                        |
+|6-5-19  | Intro to lab and sessions, Math review | TBD                   | TBD                        |
+|7-5-19  | Math review | TBD                   | TBD                        |
 
 
 
@@ -72,7 +73,7 @@ An Important aspect of this session will be getting familiar with various robots
 >Mahtab Sandhu <mahtabsandhu@gmail.com><br />
 >Karnik Ram <karnikram@gmail.com><br />
 >Mithun Nallana <mithunbabu1141995@gmail.com><br />
->Junaid Ahmad<ansariahmedjunaid@gmail.com><br /> 
+>Junaid Ahmad <ansariahmedjunaid@gmail.com><br /> 
 >kaustubh mani <kaustubh3095@gmail.com><br />
 >S Shashank <shashank.s@research.iiit.ac.in><br />
 >Sriram N N <nnsriram97@gmail.com><br />
