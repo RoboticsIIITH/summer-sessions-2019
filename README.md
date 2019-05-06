@@ -45,6 +45,7 @@ An Important aspect of this session will be getting familiar with various robots
 | 1              | TBD          | TBD              | TBD                | TBD     |
 
 >Tentative Schedule of the topics to be covered
+
 **Lab Robots & other Hardwares(On Weekends):**
 
 **Linear Algebrs/Vector Calculus/Optimization(6-14 May):**
