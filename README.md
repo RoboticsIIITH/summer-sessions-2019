@@ -47,6 +47,9 @@ An Important aspect of this session will be getting familiar with various robots
 >Tentative Schedule of the topics to be covered
 
 **Lab Robots & other Hardwares(On Weekends):**
+* Working with ROS(Robot Operating System)
+* Learning to collect data with different cameras, Lidar and other sensors
+* Learn to operate/run different robots in lab
 
 **Linear Algebrs/Vector Calculus/Optimization(6-14 May):**
 
