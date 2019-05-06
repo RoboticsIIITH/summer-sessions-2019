@@ -30,10 +30,10 @@ An Important aspect of this session will be getting familiar with various robots
 ## Schedule
 >All the course materials(slides/references) will be updated in this section after every class:
 
-|  Date  |       Topic       |        Material       |     Additional Reading     |
-|:------:|:-----------------:|:---------------------:|:--------------------------:|
-|6-5-19  | Intro to lab and sessions, Math review | TBD                   | TBD                        |
-|7-5-19  | Math review | TBD                   | TBD                        |
+|  Date  |       Topic       |  Mentor     |        Material       |     Additional Reading     |
+|:------:|:-----------------:|:-----------:|:---------------------:|:--------------------------:|
+|6-5-19  | Intro to lab and sessions, Math review| Mithun | TBD                   | TBD                        |
+|7-5-19  | Math review | TBD    |               | TBD                        |
 
 
 
