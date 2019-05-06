@@ -33,7 +33,7 @@ An Important aspect of this session will be getting familiar with various robots
 |  Date  |       Topic       |  Mentor     |        Material       |     Additional Reading     |
 |:------:|:-----------------:|:-----------:|:---------------------:|:--------------------------:|
 |6-5-19  | Intro to lab and sessions, Math review| Mithun | TBD                   | TBD                        |
-|7-5-19  | Math review | TBD    |               | TBD                        |
+|7-5-19  | Math review contd.| Mithun    |          TBD     | TBD                        |
 
 
 
