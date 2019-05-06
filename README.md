@@ -32,8 +32,8 @@ An Important aspect of this session will be getting familiar with various robots
 
 |  Date  |       Topic       |  Mentor     |        Material       |     Additional Reading     |
 |:------:|:-----------------:|:-----------:|:---------------------:|:--------------------------:|
-|6-5-19  | Intro to lab and sessions, Math review| Mithun | TBD                   | TBD                        |
-|7-5-19  | Math review contd.| Mithun    |          TBD     | TBD                        |
+|6-5-19  | Intro to lab and sessions, Maths review| Mithun | [Class Slide](https://drive.google.com/file/d/1T3O_9q3hSKVw88LsjtCXCmZFFpd-cs8Z/view)                   | TBD                        |
+|7-5-19  | Maths review contd.| Mithun    |          TBD     | TBD                        |
 
 
 
