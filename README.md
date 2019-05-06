@@ -69,21 +69,21 @@ An Important aspect of this session will be getting familiar with various robots
 
 ## Contacts:
 ** For any doubts and querries regarding this session you can contact any one of the coordinators as mentioned below:**
-*Maths(Linear Algebra, Optimization, Probability & Statistics)
+* Maths(Linear Algebra, Optimization, Probability & Statistics)
 >Mithun Nallana <mithunbabu1141995@gmail.com><br />
-*Rigid Body Transformations, Image Formation, Camera Geometry
+* Rigid Body Transformations, Image Formation, Camera Geometry
 >Gourav Kumar <gkumar.4548@gmail.com><br />
-*Projective Geometry, Machine Vision
+* Projective Geometry, Machine Vision
 >Karnik Ram <karnikram@gmail.com><br />
 >Junaid Ahmad <ansariahmedjunaid@gmail.com><br />
 * Deep Learning
 >Sarthak Sharma <sarthak.alexrider@gmail.com><br />
 >Mahtab Sandhu <mahtabsandhu@gmail.com><br />
 >S Shashank <shashank.s@research.iiit.ac.in><br />
-*Reinforcement Learning
+* Reinforcement Learning
 >kaustubh mani <kaustubh3095@gmail.com><br />
-*Motion Planning and Trajectory Optimization
+* Motion Planning and Trajectory Optimization
 >Mithun Nallana <mithunbabu1141995@gmail.com><br />
-*Hands-on sessions with Robots and sensors
+* Hands-on sessions with Robots and sensors
 >Sriram N N <nnsriram97@gmail.com><br />
 >Gourav Kumar <gkumar.4548@gmail.com><br />
