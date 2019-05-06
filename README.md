@@ -44,18 +44,33 @@ An Important aspect of this session will be getting familiar with various robots
 |:--------------:|:------------:|:----------------:|:------------------:|:-------:|
 | 1              | TBD          | TBD              | TBD                | TBD     |
 
+>Tentative Schedule of the topics to be covered
+**Lab Robots & other Hardwares(On Weekends):**
+
+**Linear Algebrs/Vector Calculus/Optimization(6-14 May):**
+
+**Rigid Body Transformations/Image Formation/ Camera Geometry(15-17 May):**
+
+**Projective Geometry/Multiview Geometry(18-28 May):**
+
+**Deep Learning & Tensor Flow(29 May- 7 June):**
+
+**Motion Planning(8 - 15 June):**
+
+**Reinforcement Learning(16 June Onwards):**
+
+
 ## Reference
 >This section will point out to research papers, text books and other resources for going deep into different topics
 
-**Lab Robots & other Hardwares:**
+**Lab Robots & other Hardwares(On Weekends):**
 
-**Optimization:**
+**Linear Algebrs/Vector Calculus/Optimization():**
 
-**Rigid Body Transformations:**
+**Rigid Body Transformations/Image Formation/ Camera Geometry():**
 
-**Projective Geometry:**
+**Projective Geometry/Multiview Geometry():**
 
-**Computer Vision:**
 
 * Photogrammetry II - A course by Prof. Cyrill Stachniss
 * Multiple View Geometry in Computer Vision - A book by Richard Hartley and Andrew Zisserman. Colloquially referred to as the bible.
@@ -73,7 +88,7 @@ An Important aspect of this session will be getting familiar with various robots
 >Mithun Nallana <mithunbabu1141995@gmail.com><br />
 * Rigid Body Transformations, Image Formation, Camera Geometry
 >Gourav Kumar <gkumar.4548@gmail.com><br />
-* Projective Geometry, Machine Vision
+* Projective Geometry, Multiview Geometry
 >Karnik Ram <karnikram@gmail.com><br />
 >Junaid Ahmad <ansariahmedjunaid@gmail.com><br />
 * Deep Learning
