@@ -6,6 +6,10 @@ A series of lectures and hands-on tutorials organized between the 6th of May 201
 
 An Important aspect of this session will be getting familiar with various robots and sensors present in the lab. This knowledge/skill will be critical as some of the assignments will involve using these systems to collect data and/or execute the algorithms.
 
+## Venue and Timings:
+* Venue : Nilgiri 119(Saranga Hall)
+* Timings : 1500 Hrs to 1700 Hrs 
+
 
 ## Tentative topics:
 
