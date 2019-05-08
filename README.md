@@ -38,6 +38,7 @@ An Important aspect of this session will be getting familiar with various robots
 |:------:|:-----------------:|:-----------:|:---------------------:|:--------------------------:|
 |6-5-19  | Intro to lab and sessions, Maths review| Mithun | [Class Slide](https://drive.google.com/file/d/1T3O_9q3hSKVw88LsjtCXCmZFFpd-cs8Z/view)| TBD                        |
 |7-5-19  | Maths review contd.| Mithun    |          TBD     | TBD                        |
+|9-5-19  | Rigid Body Transformations and Image Formation| Gourav    |          TBD     | TBD                        |
 
 
 
