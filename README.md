@@ -13,7 +13,7 @@ An Important aspect of this session will be getting familiar with various robots
 
 ## Tentative topics:
 
-**Lab Robots & other Hardwares:**
+**Lab Robots & other Hardwares:** ROS (Robot Operating System), Cameras(Monocular, Stereo, RGBD), Lidars, IMUs, Flight controllers, Husky Robot, P3DX Robot, Bebeop Drone, GPS, etc.
 
 **Fundamentals of Linear Algebra, Calculus and Optimization:** Vectors, Matrices, Vector and Matrix operations, Important matrices, Matrix decompositions, Gradient, Hessian, Linear and non-linear least squares, Unconstrained optimization methods, Lagrange multipliers.
 
@@ -53,9 +53,6 @@ An Important aspect of this session will be getting familiar with various robots
 >Tentative Schedule of the topics to be covered
 
 **Lab Robots & other Hardwares(On Weekends):**
-* Working with ROS(Robot Operating System)
-* Learning to collect data with different cameras, Lidar and other sensors
-* Learn to operate/run different robots in lab
 
 **Linear Algebrs/Vector Calculus/Optimization(6-14 May):**
 
