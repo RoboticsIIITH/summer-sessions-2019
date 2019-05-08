@@ -33,6 +33,7 @@ An Important aspect of this session will be getting familiar with various robots
 
 ## Schedule
 >All the course materials(slides/references) will be updated in this section after every class:
+>For any querries and Discussions refer to [issues](https://github.com/iiith-rrc/summer-sessions-2019/issues) page.
 
 |  Date  |       Topic       |  Mentor     |        Material       |     Additional Reading     |
 |:------:|:-----------------:|:-----------:|:---------------------:|:--------------------------:|
