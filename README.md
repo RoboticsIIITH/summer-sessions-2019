@@ -26,7 +26,7 @@ An Important aspect of this session will be getting familiar with various robots
 
 **Motion Planning:** Robot modelling, Motion Planning overview, Sampling based planning, Variational methods for planning.
 
-**Reinforcement Learning:**
+**Reinforcement Learning:** Markov Processes, Planning using Dynamic Programming, Value Iteration and Policy Iteration, Model Free RL(TD learning, SARSA, Importance Sampling), table Q-learning,  Value Function Approximation(Incremental and Batch), Deep Q Networks(DQN), Policy Gradients(REINFORCE, Actor-Critic Methods). (Additionally we can also cover Deep RL(DQN, Double DQN, Asynchronous DQN, Bayesian RL, TRPO, PPO, Inverse RL etc.)  if we have time).
 
 
 
