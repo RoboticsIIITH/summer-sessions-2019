@@ -47,9 +47,9 @@ An Important aspect of this session will be getting familiar with various robots
 ## Assignments
 >All the assignments will be uploaded updated here with deadline in this section
 
-| Assignment No. | Release Date |       Topic      |       files        | Deadline|
-|:--------------:|:------------:|:----------------:|:------------------:|:-------:|
-| 1              | TBD          | TBD              | TBD                | TBD     |
+| Assignment No. | Release Date |       Topic      |       files        | Deadline| Extra Info |
+|:--------------:|:------------:|:----------------:|:------------------:|:-------:|:-------:|
+| 1              | 10th May 2019          | Linear Algebra, Optimization, Transformations              | [Assignment file](https://drive.google.com/file/d/1Vu6af6LKr7D_N-EFToYC0MuNv9F8MXC-/view)                | 14th May 2019     |mail to [Mithun](mithunbabu1141995@gmail.com) with your name and ID|
 
 >Tentative Schedule of the topics to be covered
 
