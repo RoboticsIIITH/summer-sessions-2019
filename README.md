@@ -39,8 +39,8 @@ An Important aspect of this session will be getting familiar with various robots
 |:------:|:-----------------:|:-----------:|:---------------------:|:--------------------------:|
 |6-5-19  | Intro to lab and sessions, Maths review| Mithun | [Class Slide](https://drive.google.com/file/d/1T3O_9q3hSKVw88LsjtCXCmZFFpd-cs8Z/view)| TBD                        |
 |7-5-19  | Maths review contd.| Mithun    |          [Class Slide](https://drive.google.com/file/d/1QfuChvRevKoIc9g_OQqpIUxI-9TPlcx_/view)     | [Reference Materials](https://github.com/iiith-rrc/summer-sessions-2019/issues/2)                       |
-|9-5-19  | Rigid Body Transformations and Image Formation| Gourav    |         [Class Slide Image Formation](https://drive.google.com/open?id=1Rn7wZ-S5Dr-DfSaL6Vze6a1aAN9idWqd)     | TBD                        |
-|11-5-19  | Rigid Body Transformations contd.| Gourav     |          [Class Slide](https://drive.google.com/open?id=1iIF4Qt043ALe-Wo7pWnKMGqminWrqdjg)     | TBD                        |
+|9-5-19  | Rigid Body Transformations and Image Formation| Gourav    |         [Class Slide Image Formation](https://drive.google.com/open?id=1Rn7wZ-S5Dr-DfSaL6Vze6a1aAN9idWqd)     | at end of slide                        |
+|11-5-19  | Rigid Body Transformations contd.| Gourav     |          [Class Slide](https://drive.google.com/open?id=1iIF4Qt043ALe-Wo7pWnKMGqminWrqdjg)     | at end of slide                        |
 
 
 
