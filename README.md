@@ -17,7 +17,7 @@ An Important aspect of this session will be getting familiar with various robots
 
 **Fundamentals of Linear Algebra, Calculus and Optimization:** Vectors, Matrices, Vector and Matrix operations, Important matrices, Matrix decompositions, Gradient, Hessian, Linear and non-linear least squares, Unconstrained optimization methods, Lagrange multipliers.
 
-**Rigid Body Transformations:**
+**Rigid Body Transformations:**Rotation matrices, Homogeneous Transformation matrices, Rigid Body transformation, Composition of transformation by current-axis and fixed-axis conventions.
 
 **Geometric methods in Computer Vision:** Projective geometry, Camera modelling, Homographies, Two-view geometry, Triangulation, SfM, Visual odometry.
 
