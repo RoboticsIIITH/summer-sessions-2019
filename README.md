@@ -55,13 +55,13 @@ An Important aspect of this session will be getting familiar with various robots
 
 **Lab Robots & other Hardwares(On Weekends):**
 
-**Linear Algebrs/Vector Calculus/Optimization(6-14 May):**
+**Linear Algebrs/Vector Calculus/Optimization(6-8 May):**
 
-**Rigid Body Transformations/Image Formation/ Camera Geometry(15-17 May):**
+**Rigid Body Transformations/Image Formation/ Camera Geometry(9-11 May):**
 
-**Projective Geometry/Multiview Geometry(18-28 May):**
+**Projective Geometry/Multiview Geometry(13 - 24 May):**
 
-**Deep Learning & Tensor Flow(29 May- 7 June):**
+**Deep Learning & Tensor Flow(26 May- 7 June):**
 
 **Motion Planning(8 - 15 June):**
 
