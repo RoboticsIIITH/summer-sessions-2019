@@ -28,36 +28,22 @@ An Important aspect of this session will be getting familiar with various robots
 
 **Reinforcement Learning:** Markov Processes, Planning using Dynamic Programming, Value Iteration and Policy Iteration, Model Free RL(TD learning, SARSA, Importance Sampling), table Q-learning,  Value Function Approximation(Incremental and Batch), Deep Q Networks(DQN), Policy Gradients(REINFORCE, Actor-Critic Methods). (Additionally we can also cover Deep RL(DQN, Double DQN, Asynchronous DQN, Bayesian RL, TRPO, PPO, Inverse RL etc.)  if we have time).
 
-
-
-
 ## Schedule
 >All the course materials(slides/references) will be updated in this section after every class.
 >For any querries and discussions refer to [issues](https://github.com/iiith-rrc/summer-sessions-2019/issues) page.
 
-|  Date  |       Topic       |  Mentor     |        Material       |     Additional Reading     |
+|  Date  |       Topic       |  Presenter     |        Material       |     Additional Reading     |
 |:------:|:-----------------:|:-----------:|:---------------------:|:--------------------------:|
 |6-5-19  | Intro to lab and sessions, Maths review| Mithun | [Class Slide](https://drive.google.com/file/d/1T3O_9q3hSKVw88LsjtCXCmZFFpd-cs8Z/view)| [Matrix_Differentiation_Reference](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf)                        |
 |7-5-19  | Maths review contd.| Mithun    |          [Class Slide](https://drive.google.com/file/d/1QfuChvRevKoIc9g_OQqpIUxI-9TPlcx_/view)     | [Reference Materials](https://github.com/iiith-rrc/summer-sessions-2019/issues/2)                       |
 |9-5-19  | Rigid Body Transformations and Image Formation| Gourav    |         [Class Slide Image Formation](https://drive.google.com/open?id=1Rn7wZ-S5Dr-DfSaL6Vze6a1aAN9idWqd)     | at end of slide                        |
 |11-5-19  | Rigid Body Transformations contd.| Gourav     |          [Class Slide](https://drive.google.com/open?id=1iIF4Qt043ALe-Wo7pWnKMGqminWrqdjg)     | at end of slide                        |
-|13-5-19  | Camera Calibration| Junaid     |          [slide](https://drive.google.com/file/d/0B09edifas--WT2dvbF9xVkpZRXRQT010dGlCMm5iLWl1blpZ/view)    |  [Camera Inrtinsic and Extrinsics](https://drive.google.com/file/d/17vTRpqAx3cDJLlrYZ0kXZ6fQYcmyhKIR/view)                       |
+|13-5-19  | Camera Calibration| Junaid     |          [slide](https://drive.google.com/file/d/0B09edifas--WT2dvbF9xVkpZRXRQT010dGlCMm5iLWl1blpZ/view)    |  [Camera Intrinsics and Extrinsics](https://drive.google.com/file/d/17vTRpqAx3cDJLlrYZ0kXZ6fQYcmyhKIR/view)                       |
+|14-5-19  | Multiple-view Geometry 1 - Overview, Intro to visual odometry, Feature detection and matching, Motion estimation | Karnik | TBD | TBD|
+|16-5-19  | Multiple-view Geometry 2 - Epipolar geometry, RANSAC | Karnik | TBD | TBD|
+|18-5-19  | Multiple-view Geometry 3 - Triangulation, Resection, Bundle Adjustment | Karnik | TBD | TBD|
 
-
-## Assignments
->All the assignments will be uploaded updated here with deadline in this section
-
-| Assignment No. | Release Date |       Topic      |       files        | Deadline| Extra Info |
-|:--------------:|:------------:|:----------------:|:------------------:|:-------:|:-------:|
-| 1              | 10th May 2019          | Linear Algebra, Optimization, Transformations              | [Assignment file](https://drive.google.com/file/d/1Vu6af6LKr7D_N-EFToYC0MuNv9F8MXC-/view)                | 14th May 2019     |mail to [Mithun](mithunbabu1141995@gmail.com) with your name and ID|
-
->Tentative Schedule of the topics to be covered
-
-**Lab Robots & other Hardwares(On Weekends):**
-
-**Linear Algebrs/Vector Calculus/Optimization(6-8 May):**
-
-**Rigid Body Transformations/Image Formation/ Camera Geometry(9-11 May):**
+>Tentative Schedule of remaining topics to be covered
 
 **Projective Geometry/Multiview Geometry(13 - 24 May):**
 
@@ -67,13 +53,21 @@ An Important aspect of this session will be getting familiar with various robots
 
 **Reinforcement Learning(16 June Onwards):**
 
+**Lab Robots & other Hardwares(On Weekends):**
+
+## Assignments
+>All the assignments will be uploaded updated here with deadline in this section
+
+| Assignment No. | Release Date |       Topic      |       files        | Deadline| Extra Info |
+|:--------------:|:------------:|:----------------:|:------------------:|:-------:|:-------:|
+| 1              | 10th May 2019          | Linear Algebra, Optimization, Transformations              | [Assignment file](https://drive.google.com/file/d/1Vu6af6LKr7D_N-EFToYC0MuNv9F8MXC-/view)                | 14th May 2019     |mail to [Mithun](mailto:mithunbabu1141995@gmail.com) with your name and ID|
 
 ## Reference
 >This section will point out to research papers, text books and other resources for going deep into different topics
 
 **Lab Robots & other Hardwares(On Weekends):**
 
-**Linear Algebrs/Vector Calculus/Optimization():**
+**Linear Algebra/Vector Calculus/Optimization():**
 
 **Rigid Body Transformations/Image Formation/ Camera Geometry():**
 
