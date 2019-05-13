@@ -4,11 +4,11 @@
 
 A series of lectures and hands-on tutorials organized between the 6th of May 2019 and 20th of June 2019 to familiarize new lab entrants with the fundaments of different areas of robotics research that the lab conducts.
 
-An Important aspect of this session will be getting familiar with various robots and sensors present in the lab. This knowledge/skill will be critical as some of the assignments will involve using these systems to collect data and/or execute the algorithms.
+An important aspect of this session will be getting familiar with various robots and sensors present in the lab. This knowledge/skill will be critical as some of the assignments will involve using these systems to collect data and/or execute the algorithms.
 
 ## Venue and Timings:
 * Venue : Nilgiri 119(Saranga Hall)
-* Timings : 1500 Hrs to 1700 Hrs 
+* Timings : 15:00 Hrs to 17:00 Hrs 
 
 
 ## Tentative topics:
@@ -19,7 +19,7 @@ An Important aspect of this session will be getting familiar with various robots
 
 **Rigid Body Transformations:** Rotation matrices, Homogeneous Transformation matrices, Rigid Body transformation, Composition of transformation by current-axis and fixed-axis conventions.
 
-**Geometric methods in Computer Vision:** Projective geometry, Camera modelling, Camera Calibration, Homographies, Two-view geometry, Triangulation, SfM, Visual odometry.
+**Geometric methods in Computer Vision:** Projective geometry, Camera modelling, Camera Calibration, Two-view geometry, Triangulation, Resection, SfM, Visual odometry.
 
 
 **Deep learning for Computer Vision & Tensor Flow:**
@@ -30,7 +30,7 @@ An Important aspect of this session will be getting familiar with various robots
 
 ## Schedule
 >All the course materials(slides/references) will be updated in this section after every class.
->For any querries and discussions refer to [issues](https://github.com/iiith-rrc/summer-sessions-2019/issues) page.
+>For any queries and discussions refer to the [issues](https://github.com/iiith-rrc/summer-sessions-2019/issues) page.
 
 |  Date  |       Topic       |  Presenter     |        Material       |     Additional Reading     |
 |:------:|:-----------------:|:-----------:|:---------------------:|:--------------------------:|
