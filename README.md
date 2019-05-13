@@ -19,7 +19,7 @@ An Important aspect of this session will be getting familiar with various robots
 
 **Rigid Body Transformations:** Rotation matrices, Homogeneous Transformation matrices, Rigid Body transformation, Composition of transformation by current-axis and fixed-axis conventions.
 
-**Geometric methods in Computer Vision:** Projective geometry, Camera modelling, Homographies, Two-view geometry, Triangulation, SfM, Visual odometry.
+**Geometric methods in Computer Vision:** Projective geometry, Camera modelling, Camera Calibration, Homographies, Two-view geometry, Triangulation, SfM, Visual odometry.
 
 
 **Deep learning for Computer Vision & Tensor Flow:**
