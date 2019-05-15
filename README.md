@@ -39,7 +39,7 @@ An important aspect of this session will be getting familiar with various robots
 |9-5-19  | Rigid Body Transformations and Image Formation| Gourav    |         [Class Slide Image Formation](https://drive.google.com/open?id=1Rn7wZ-S5Dr-DfSaL6Vze6a1aAN9idWqd)     | at end of slide                        |
 |11-5-19  | Rigid Body Transformations contd.| Gourav     |          [Class Slide](https://drive.google.com/open?id=1iIF4Qt043ALe-Wo7pWnKMGqminWrqdjg)     | at end of slide                        |
 |13-5-19  | Camera Calibration| Junaid     |          [slide](https://drive.google.com/file/d/0B09edifas--WT2dvbF9xVkpZRXRQT010dGlCMm5iLWl1blpZ/view)    |  [Camera Intrinsics and Extrinsics](https://drive.google.com/file/d/17vTRpqAx3cDJLlrYZ0kXZ6fQYcmyhKIR/view)                       |
-|15-5-19  | Multiple-view Geometry 1 - Overview, Intro to visual odometry, Feature detection and matching, Motion estimation | Karnik | TBD | TBD|
+|15-5-19  | Multiple-view Geometry 1 - Overview, Intro to visual odometry, Feature detection and matching, Motion estimation | Karnik | [Class slides](/lecture-slides/mvg-1.pdf) <br> [SIFT, F-matrix slides](/reference-material/) | [SIFT paper](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf) <br> MVG Ch. 9 & 10|
 |16-5-19  | Multiple-view Geometry 2 - Epipolar geometry, RANSAC | Karnik | TBD | TBD|
 |18-5-19  | Multiple-view Geometry 3 - Triangulation, Resection, Bundle Adjustment | Karnik | TBD | TBD|
 
@@ -62,7 +62,7 @@ An important aspect of this session will be getting familiar with various robots
 |:--------------:|:------------:|:----------------:|:------------------:|:-------:|:-------:|
 | 1              | 10th May 2019          | Linear Algebra, Optimization, Transformations              | [Assignment file](https://drive.google.com/file/d/1Vu6af6LKr7D_N-EFToYC0MuNv9F8MXC-/view)                | 14th May 2019     |mail to [Mithun](mailto:mithunbabu1141995@gmail.com) with your name and ID|
 
-## Reference
+## References
 >This section will point out to research papers, text books and other resources for going deep into different topics
 
 **Lab Robots & other Hardwares(On Weekends):**
@@ -71,11 +71,13 @@ An important aspect of this session will be getting familiar with various robots
 
 **Rigid Body Transformations/Image Formation/ Camera Geometry():**
 
-**Projective Geometry/Multiview Geometry():**
+**Multiview Geometry:**
 
 
 * Photogrammetry II - A course by Prof. Cyrill Stachniss
 * Multiple View Geometry in Computer Vision - A book by Richard Hartley and Andrew Zisserman. Colloquially referred to as the bible.
+* An Invitation to 3D Vision by Yi Ma, Stefano Soatto, Jana Kosecka, and Shankar S. Sastry - Considered more beginner-friendly than the bible.
+* Photogrammetric Computer Vision by Wolfgang Förstner and Bernhard P. Wrobel - The book Cyril Stachniss follows in his lecture series.
 
 **Deep Learning & Tensor Flow:**
 
