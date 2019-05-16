@@ -39,7 +39,7 @@ An important aspect of this session will be getting familiar with various robots
 |9-5-19  | Rigid Body Transformations and Image Formation| Gourav    |         [Class Slide Image Formation](https://drive.google.com/open?id=1Rn7wZ-S5Dr-DfSaL6Vze6a1aAN9idWqd)     | at end of slide                        |
 |11-5-19  | Rigid Body Transformations contd.| Gourav     |          [Class Slide](https://drive.google.com/open?id=1iIF4Qt043ALe-Wo7pWnKMGqminWrqdjg)     | at end of slide                        |
 |13-5-19  | Camera Calibration| Junaid     |          [slide](https://drive.google.com/file/d/0B09edifas--WT2dvbF9xVkpZRXRQT010dGlCMm5iLWl1blpZ/view)    |  [Camera Intrinsics and Extrinsics](https://drive.google.com/file/d/17vTRpqAx3cDJLlrYZ0kXZ6fQYcmyhKIR/view)                       |
-|15-5-19  | Multiple-view Geometry 1 - Overview, Intro to visual odometry, Feature detection and matching, Motion estimation | Karnik | [Class slides](/lecture-slides/mvg-1.pdf) <br> [SIFT, F-matrix slides](/reference-material/) | [SIFT paper](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf) <br> MVG Ch. 9 & 10|
+|15-5-19  | Multiple-view Geometry 1 - Overview, Intro to visual odometry, Feature detection and matching, Motion estimation | Karnik | [Class slides](/lecture-slides/mvg-1.pdf) <br> [SIFT, F-matrix slides](/reference-material/) | [Original SIFT paper](https://link.springer.com/article/10.1023/B:VISI.0000029664.99615.94) <br> MVG Ch. 9 & 10|
 |17-5-19  | Multiple-view Geometry 2 - Epipolar geometry, RANSAC | Karnik | TBD | TBD|
 |TBD  | Multiple-view Geometry 3 - Triangulation, Resection, Bundle Adjustment | Karnik | TBD | TBD|
 
