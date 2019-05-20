@@ -41,7 +41,8 @@ An important aspect of this session will be getting familiar with various robots
 |13-5-19  | Camera Calibration| Junaid     |          [slide](https://drive.google.com/file/d/0B09edifas--WT2dvbF9xVkpZRXRQT010dGlCMm5iLWl1blpZ/view)    |  [Camera Intrinsics and Extrinsics](https://drive.google.com/file/d/17vTRpqAx3cDJLlrYZ0kXZ6fQYcmyhKIR/view)                       |
 |15-5-19  | Multiple-view Geometry 1 - Overview, Intro to visual odometry, Feature detection and matching, Motion estimation | Karnik | [Class slides](/lecture-slides/mvg-1.pdf) <br> [SIFT, F-matrix slides](/reference-material/) | [Original SIFT paper](https://link.springer.com/article/10.1023/B:VISI.0000029664.99615.94) <br> MVG Ch. 9 & 10|
 |17-5-19  | Multiple-view Geometry 2 - Epipolar geometry, RANSAC | Karnik | [Class slides](/lecture-slides/mvg-2.pdf) | MVG Ch. 9 & 11 <br> MVG Sec. 4.6 <br> [Moving object detection paper](https://ieeexplore.ieee.org/document/5354227)|
-|20-5-19  | Multiple-view Geometry 3 - Triangulation, Resection, Bundle Adjustment | Karnik | TBD | TBD|
+|20-5-19  | Stereo | Mahtab | TBD | TBD|
+|21-5-19  | Multiple-view Geometry 3 - Triangulation, Resection, Bundle Adjustment | Karnik | TBD | TBD|
 
 >Tentative Schedule of remaining topics to be covered
 
