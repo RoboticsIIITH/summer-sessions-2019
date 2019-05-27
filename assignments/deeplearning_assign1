@@ -1,0 +1,17 @@
+
+Task 1 : 
+Aim : To get familiar with different network designs and hyperparameter search. Try methods to normalize the data.
+Have a look at different architectures like VGGNet, AlexNet, ResNet etc.
+- Try min 2 network definitions with min 5 hyperparameters each. Try to push the test accuracy above 80%. 
+  Do this for both CIFAR10 and CIFAR100.
+
+
+Task 2:
+Aim : To get familiar with performance of the network when variation in the dataset occurs. Try to reason about that using plots.
+ - Train a network for the standar MNIST dataset. Test it on the test split.
+ - Test the same network on the rotated MNIST dataset (w/o training on it) Report the performance. 
+ - After this, report graph(s) that adds a certain percentage(0%,10%,20%..) of rotated dataset to the original dataset (X axis) and 
+   report performance on a test split consisting of only rotated, normal and a mixure of both normal and rotated dataset(Y axis).
+
+
+Deadline for both the tasks : 3 June 11:59 PM. 
