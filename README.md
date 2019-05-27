@@ -46,10 +46,6 @@ An important aspect of this session will be getting familiar with various robots
 
 >Tentative Schedule of remaining topics to be covered
 
-**Projective Geometry/Multiview Geometry(13 - 24 May):**
-
-**Deep Learning & Tensor Flow(26 May- 7 June):**
-
 **Motion Planning(8 - 15 June):**
 
 **Reinforcement Learning(16 June Onwards):**
@@ -57,11 +53,12 @@ An important aspect of this session will be getting familiar with various robots
 **Lab Robots & other Hardwares(On Weekends):**
 
 ## Assignments
->All the assignments will be uploaded updated here with deadline in this section
 
-| Assignment No. | Release Date |       Topic      |       files        | Deadline| Extra Info |
-|:--------------:|:------------:|:----------------:|:------------------:|:-------:|:-------:|
-| 1              | 10th May 2019          | Linear Algebra, Optimization, Transformations              | [Assignment file](https://drive.google.com/file/d/1Vu6af6LKr7D_N-EFToYC0MuNv9F8MXC-/view)                | 14th May 2019     |mail to [Mithun](mailto:mithunbabu1141995@gmail.com) with your name and ID|
+| Assignment No. | Release Date |       Topic      |       files        | Deadline|
+|:--------------:|:------------:|:----------------:|:------------------:|:-------:|
+|1 | 10-5-19 | Linear Algebra, Optimization, Transformations | [Problem statement](https://drive.google.com/file/d/1Vu6af6LKr7D_N-EFToYC0MuNv9F8MXC-/view) | 14-5-19 |
+|2 | 15-5-19 | DLT Calibration | [Problem statement](assignments/assignment-2.pdf) | 19-5-19 |
+|3 | 25-5-19 | Two-view reconstruction | [Problem statement](assignments/assignment-3/instructions.md) | 29-5-19 |
 
 ## References
 >This section will point out to research papers, text books and other resources for going deep into different topics
