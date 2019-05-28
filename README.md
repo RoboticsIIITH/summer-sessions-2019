@@ -59,6 +59,8 @@ An important aspect of this session will be getting familiar with various robots
 |1 | 10-5-19 | Linear Algebra, Optimization, Transformations | [Problem statement](https://drive.google.com/file/d/1Vu6af6LKr7D_N-EFToYC0MuNv9F8MXC-/view) | 14-5-19 |
 |2 | 15-5-19 | DLT Calibration | [Problem statement](assignments/assignment-2.pdf) | 19-5-19 |
 |3 | 25-5-19 | Two-view reconstruction | [Problem statement](assignments/assignment-3/instructions.md) | 29-5-19 |
+|4 | 27-5-19 | DL_Assign1 | [Problem statement](assignments/deeplearning_assign1) | 3-6-19 |
+
 
 ## References
 >This section will point out to research papers, text books and other resources for going deep into different topics
