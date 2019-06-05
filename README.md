@@ -97,7 +97,6 @@ An important aspect of this session will be getting familiar with various robots
 >Junaid Ahmad <ansariahmedjunaid@gmail.com><br />
 * Deep Learning
 >Sarthak Sharma <sarthak.alexrider@gmail.com><br />
->Mahtab Sandhu <mahtabsandhu@gmail.com><br />
 >S Shashank <shashank.s@research.iiit.ac.in><br />
 * Reinforcement Learning
 >kaustubh mani <kaustubh3095@gmail.com><br />
