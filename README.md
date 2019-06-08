@@ -43,6 +43,12 @@ An important aspect of this session will be getting familiar with various robots
 |17-5-19  | Multiple-view Geometry 2 - Epipolar geometry, RANSAC | Karnik | [Class slides](/lecture-slides/mvg-2.pdf) | MVG Ch. 9 & 11 <br> MVG Sec. 4.6 <br> [Moving object detection paper](https://ieeexplore.ieee.org/document/5354227)|
 |20-5-19  | Stereo | Mahtab | TBD | TBD|
 |22-5-19  | Multiple-view Geometry 3 - Triangulation, Resection, Bundle Adjustment | Karnik | [Class slides](/lecture-slides/mvg-3.pdf) | MVG Ch. 12 <br> [E-PnP](https://cvlab.epfl.ch/software/multi-view-stereo/epnp/) <br> [Bundle adjustment](https://hal.inria.fr/inria-00548290)|
+|23-5-19  | DL 1 | Sarthak | Basic review of ML and forward propagation | TBD |
+|24-5-19  | DL 2 | Shashank | Back Propagation, CNN & Optimization Methods | CS231n lecture slides |
+|27-5-19  | DL 3 | Sarthak | PyTorch Introduction and Coding | TBD |
+|28-5-19  | DL 4 | Shashank | CNN Architectures, RNNs/LSTMS, object detection| CS231n lecture slides |
+|29-5-19  | DL 4 | Shashank | Coding LSTMs and time series prediction | TBD |
+
 
 >Tentative Schedule of remaining topics to be covered
 
