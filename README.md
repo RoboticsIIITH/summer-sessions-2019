@@ -48,7 +48,7 @@ An important aspect of this session will be getting familiar with various robots
 |27-5-19  | DL 3 | Sarthak | PyTorch Introduction and Coding | TBD |
 |28-5-19  | DL 4 | Shashank | CNN Architectures, RNNs/LSTMS, object detection| CS231n lecture slides |
 |29-5-19  | DL 4 | Shashank | Coding LSTMs and time series prediction | TBD |
-|8-6-19  | Trajectory Generation/ ROS | Mithun, Gourav |  [ROS Tutorial](http://wiki.ros.org/ROS/Tutorials) |  |
+|8-6-19  | Trajectory Generation/ ROS | Mithun, Gourav |  [ROS Tutorial](http://wiki.ros.org/ROS/Tutorials) | [ETH ROS Course](http://www.rsl.ethz.ch/education-students/lectures/ros.html) |
 |9-6-19  | ROS |  Gourav | [ROS Tutorial](http://wiki.ros.org/ROS/Tutorials)  |  |
 
 >Tentative Schedule of remaining topics to be covered
