@@ -48,6 +48,8 @@ An important aspect of this session will be getting familiar with various robots
 |27-5-19  | DL 3 | Sarthak | PyTorch Introduction and Coding | TBD |
 |28-5-19  | DL 4 | Shashank | CNN Architectures, RNNs/LSTMS, object detection| CS231n lecture slides |
 |29-5-19  | DL 4 | Shashank | Coding LSTMs and time series prediction | TBD |
+|1-6-19   | Motion Planning | Mithun | Motion Planning overivew and Graph search methods | [Slides](/lecture-slides/mp-1.pdf), [Slides](/lecture-slides/mp-2.pdf) |
+|3-6-19   | Motion Planning | Mithun | Sampling based methods and Local Planning | [Slides](/lecture-slides/mp-3/) |
 |8-6-19  | Trajectory Generation/ ROS | Mithun, Gourav |  [ROS Tutorial](http://wiki.ros.org/ROS/Tutorials) | [ETH ROS Course](http://www.rsl.ethz.ch/education-students/lectures/ros.html) |
 |9-6-19  | ROS |  Gourav | [ROS Tutorial](http://wiki.ros.org/ROS/Tutorials)  | [ETH ROS Course](http://www.rsl.ethz.ch/education-students/lectures/ros.html) |
 
@@ -76,6 +78,8 @@ An important aspect of this session will be getting familiar with various robots
 
 **Linear Algebra/Vector Calculus/Optimization():**
 
+* Refer [Issue #1](https://github.com/iiith-rrc/summer-sessions-2019/issues/1) and [Issue #2](https://github.com/iiith-rrc/summer-sessions-2019/issues/2)
+
 **Rigid Body Transformations/Image Formation/ Camera Geometry():**
 
 **Multiview Geometry:**
@@ -90,13 +94,15 @@ An important aspect of this session will be getting familiar with various robots
 
 **Motion Planning:**
 
+* Refer [Issue #13](https://github.com/iiith-rrc/summer-sessions-2019/issues/13)
+
 **Reinforcement Learning:**
 
 
 ## Contacts:
 ** For any doubts and querries regarding this session you can contact any one of the coordinators as mentioned below:**
 * Maths(Linear Algebra, Optimization, Probability & Statistics)
->Mithun Nallana <mithunbabu1141995@gmail.com><br />
+>Mithun Nallana <mithun.babu@research.iiit.ac.in><br />
 * Rigid Body Transformations, Image Formation, Camera Geometry
 >Gourav Kumar <gkumar.4548@gmail.com><br />
 * Projective Geometry, Multiview Geometry
@@ -108,7 +114,7 @@ An important aspect of this session will be getting familiar with various robots
 * Reinforcement Learning
 >kaustubh mani <kaustubh3095@gmail.com><br />
 * Motion Planning and Trajectory Optimization
->Mithun Nallana <mithunbabu1141995@gmail.com><br />
+>Mithun Nallana <mithun.babu@research.iiit.ac.in><br />
 * Hands-on sessions with Robots and sensors
 >Sriram N N <nnsriram97@gmail.com><br />
 >Gourav Kumar <gkumar.4548@gmail.com><br />
