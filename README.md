@@ -52,6 +52,7 @@ An important aspect of this session will be getting familiar with various robots
 |3-6-19   | Motion Planning | Mithun | Sampling based methods and Local Planning | [Slides](/lecture-slides/mp-3/) |
 |8-6-19  | Trajectory Generation/ ROS | Mithun, Gourav |  [ROS Tutorial](http://wiki.ros.org/ROS/Tutorials) | [ETH ROS Course](http://www.rsl.ethz.ch/education-students/lectures/ros.html) |
 |9-6-19  | ROS |  Gourav | [ROS Tutorial](http://wiki.ros.org/ROS/Tutorials)  | [ETH ROS Course](http://www.rsl.ethz.ch/education-students/lectures/ros.html) |
+|19-6-19  | RL Basics | Kaustubh | [slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | [DeepMind Lectures](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) |
 
 >Tentative Schedule of remaining topics to be covered
 
@@ -97,6 +98,9 @@ An important aspect of this session will be getting familiar with various robots
 * Refer [Issue #13](https://github.com/iiith-rrc/summer-sessions-2019/issues/13)
 
 **Reinforcement Learning:**
+
+* Book: Reinforcement Learning by Sutton and Barto [pdf](http://incompleteideas.net/book/RLbook2018trimmed.pdf)
+* Reinforcement Learning lectures by David Silver [link](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 
 
 ## Contacts:
