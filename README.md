@@ -1,15 +1,12 @@
 # summer-sessions-2019
 
-## Note: Announcements will be made through the repo's issues page, so please subscribe to the repo (by clicking the 'watch' button) to receive notifications.
-
 A series of lectures and hands-on tutorials organized between the 6th of May 2019 and 20th of June 2019 to familiarize new lab entrants with the fundaments of different areas of robotics research that the lab conducts.
 
 An important aspect of this session will be getting familiar with various robots and sensors present in the lab. This knowledge/skill will be critical as some of the assignments will involve using these systems to collect data and/or execute the algorithms.
 
 ## Venue and Timings:
-* Venue : Nilgiri 119(Saranga Hall)
+* Venue : Nilgiri 119 (Saranga Hall)
 * Timings : 15:00 Hrs to 17:00 Hrs 
-
 
 ## Tentative topics:
 
@@ -22,15 +19,13 @@ An important aspect of this session will be getting familiar with various robots
 **Geometric methods in Computer Vision:** Projective geometry, Camera modelling, Camera Calibration, Two-view geometry, Triangulation, Resection, SfM, Visual odometry.
 
 
-**Deep learning for Computer Vision & Tensor Flow:**
+**Deep learning for Computer Vision & Tensor Flow**
 
 **Motion Planning:** Robot modelling, Motion Planning overview, Sampling based planning, Variational methods for planning.
 
 **Reinforcement Learning:** Markov Processes, Planning using Dynamic Programming, Value Iteration and Policy Iteration, Model Free RL(TD learning, SARSA, Importance Sampling), table Q-learning,  Value Function Approximation(Incremental and Batch), Deep Q Networks(DQN), Policy Gradients(REINFORCE, Actor-Critic Methods). (Additionally we can also cover Deep RL(DQN, Double DQN, Asynchronous DQN, Bayesian RL, TRPO, PPO, Inverse RL etc.)  if we have time).
 
 ## Schedule
->All the course materials(slides/references) will be updated in this section after every class.
->For any queries and discussions refer to the [issues](https://github.com/iiith-rrc/summer-sessions-2019/issues) page.
 
 |  Date  |       Topic       |  Presenter     |        Material       |     Additional Reading     |
 |:------:|:-----------------:|:-----------:|:---------------------:|:--------------------------:|
@@ -54,13 +49,6 @@ An important aspect of this session will be getting familiar with various robots
 |9-6-19  | ROS |  Gourav | [ROS Tutorial](http://wiki.ros.org/ROS/Tutorials)  | [ETH ROS Course](http://www.rsl.ethz.ch/education-students/lectures/ros.html) |
 |19-6-19  | RL Basics | Kaustubh | [slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | [DeepMind Lectures](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) |
 
->Tentative Schedule of remaining topics to be covered
-
-**Motion Planning(8 - 15 June):**
-
-**Reinforcement Learning(16 June Onwards):**
-
-**Lab Robots & other Hardwares(On Weekends):**
 
 ## Assignments
 
@@ -73,25 +61,17 @@ An important aspect of this session will be getting familiar with various robots
 
 
 ## References
->This section will point out to research papers, text books and other resources for going deep into different topics
 
-**Lab Robots & other Hardwares(On Weekends):**
-
-**Linear Algebra/Vector Calculus/Optimization():**
+**Linear Algebra / Vector Calculus / Optimization:**
 
 * Refer [Issue #1](https://github.com/iiith-rrc/summer-sessions-2019/issues/1) and [Issue #2](https://github.com/iiith-rrc/summer-sessions-2019/issues/2)
 
-**Rigid Body Transformations/Image Formation/ Camera Geometry():**
-
 **Multiview Geometry:**
-
 
 * Photogrammetry II - A course by Prof. Cyrill Stachniss
 * Multiple View Geometry in Computer Vision - A book by Richard Hartley and Andrew Zisserman. Colloquially referred to as the bible.
 * An Invitation to 3D Vision by Yi Ma, Stefano Soatto, Jana Kosecka, and Shankar S. Sastry - Considered more beginner-friendly than the bible.
 * Photogrammetric Computer Vision by Wolfgang Förstner and Bernhard P. Wrobel - The book Cyril Stachniss follows in his lecture series.
-
-**Deep Learning & Tensor Flow:**
 
 **Motion Planning:**
 
@@ -102,9 +82,7 @@ An important aspect of this session will be getting familiar with various robots
 * Book: Reinforcement Learning by Sutton and Barto [pdf](http://incompleteideas.net/book/RLbook2018trimmed.pdf)
 * Reinforcement Learning lectures by David Silver [link](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 
-
 ## Contacts:
-** For any doubts and querries regarding this session you can contact any one of the coordinators as mentioned below:**
 * Maths(Linear Algebra, Optimization, Probability & Statistics)
 >Mithun Nallana <mithun.babu@research.iiit.ac.in><br />
 * Rigid Body Transformations, Image Formation, Camera Geometry
@@ -122,3 +100,5 @@ An important aspect of this session will be getting familiar with various robots
 * Hands-on sessions with Robots and sensors
 >Sriram N N <nnsriram97@gmail.com><br />
 >Gourav Kumar <gkumar.4548@gmail.com><br />
+
+Note: Announcements will be made through the repo's issues page, so please subscribe to the repo (by clicking the 'watch' button) to receive notifications.
